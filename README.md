@@ -199,4 +199,3 @@ It can be used as a beginner-to-intermediate level ML portfolio project.
 
 ---
 
-Tell me what you want next 🚀
